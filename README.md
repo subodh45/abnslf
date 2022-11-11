@@ -14,3 +14,15 @@ testing.xml
 
 git 
 seema
+
+
+git command 
+
+git init
+git add .
+git commit -m ""
+git remote add origin "url"
+git push -u origin master
+git pull
+git fetch 
+git merge origin/master
